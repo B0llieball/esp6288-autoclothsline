@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 int enable1Pin = D1;
 int motorPin1 = D2;
 int motorPin2 = D3;
